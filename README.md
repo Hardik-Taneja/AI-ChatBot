@@ -1,3 +1,3 @@
-#AI powered ChatBot#
+# AI powered ChatBot
 
 ChatBot made using openAPI
